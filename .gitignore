@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Root level IDE files
+*.iml
+.idea/
+
+# Node / React
+node_modules/
+build/
+dist/
+.env
+npm-debug.log
