@@ -1,0 +1,6 @@
+# Ignore these files in GitHub language stats
+package-lock.json linguist-generated=true
+package.json linguist-generated=true
+*.json linguist-generated=true
+*.js linguist-vendored=true
+src/main/resources/static/** linguist-vendored=true
